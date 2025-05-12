@@ -43,7 +43,31 @@
 #*.jpg   binary
 #*.png   binary
 #*.gif   binary
+CAIP Address
+eip155:1:0x8755b8e8571D55ee213183798dEb2254c896c851
 
+Chain Specific Address (ERC-3770)
+eth:0x8755b8e8571D55ee213183798dEb2254c896c851
+
+Address
+0x8755b8e8571D55ee213183798dEb2254c896c851
+
+Chain Id
+1
+
+Embedded Wallet Info
+{ "user": { "email": "dkr1964dale@gmail.com", "address": "0x8755b8e8571D55ee213183798dEb2254c896c851", "chainId": 1, "smartAccountDeployed": false, "accounts": [ { "address": "0x8755b8e8571D55ee213183798dEb2254c896c851", "type": "eoa" }, { "address": "0xDC346F584c14f6935cEA5a216E046cE61fb2C280", "type": "smartAccount" } ], "preferredAccountType": "eoa" }, "authProvider": "email", "accountType": "eoa", "isSmartAccountDeployed": true
+ }
+
+Relay Client ID
+Account Type
+EOA
+
+Email
+dkr1964dale@gmail.com
+
+Smart Account Status
+Not Deployed
 ###############################################################################
 # diff behavior for common document formats
 # 
