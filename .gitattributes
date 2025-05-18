@@ -86,4 +86,4 @@ Smart Account Status
 #*.pdf   diff=astextplain
 #*.PDF   diff=astextplain
 #*.rtf   diff=astextplain
-#*.RTF   diff=astextplain
+#*.RTF   diff=astextplaingh repo clone docker-archive/deploykit
